@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <a href="https://www.netflix.com/br-en/">🔗 Netflix Clone</a>
+</h1>
+<p align="center">💡 Aplicação construída em ReactJS</p>
+<div display="flex" align="center">
+  <img src="https://img.shields.io/badge/npm%20-v8.1.1-blue" alt="Badge"/>
+  <img src="https://img.shields.io/apm/l/npm" alt="Badge"/>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="#features">Objetivo</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
-## Available Scripts
+<h4 align="center"> 
+  ✔️ Clone Interface Netflix 🔥 Finalizado  ✔️
+</h4>
 
-In the project directory, you can run:
+### Features
 
-### `npm start`
+- [x] Consumir API theMoviedb
+- [x] Reacrregamento dos filmes/séries em destaque
+- [x] Rolegem séries
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Pré-requisitos
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Npm](https://www.npmjs.com/). 
+Além disso um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### `npm test`
+### 🎲 Rodando o Front-end (Interface)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# Clone este repositório
+$ git clone <https://github.com/ViniciusSLisboa/netflix-clone-interface-reactjs>
 
-### `npm run build`
+# Acesse a pasta do projeto no terminal/cmd
+$ cd netflix-clone
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Instale as dependências
+$ npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Execute a aplicação 
+$ npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# A interface iniciará na porta:3000 - acesse <http://localhost:3000>
+```
 
-### `npm run eject`
+### 🛠 Tecnologias
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+As seguintes ferramentas foram usadas na construção do projeto:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [ReactJS](https://reactjs.org/)
+- [material-ui](https://mui.com/)
+- [TheMoviedb](https://www.themoviedb.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### 🙋‍♂️ Autor 
+<img src="https://avatars.githubusercontent.com/u/86809317?v=4" alt="profile" width="100px" height="100px"/>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[Vinícius Soares](https://github.com/ViniciusSLisboa) 🚀
 
-## Learn More
+<p>Feito com ❤️ por Vinícius Soares Lisboa 👋. Entre em contato por: </p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://www.instagram.com/vnsoaresl" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vnsoaresl" target="_blank">
+</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![Gmail Badge](https://img.shields.io/badge/-v.soares.lisboa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.soares.lisboa@gmail.com)](mailto:v.soares.lisboa@gmail.com)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
