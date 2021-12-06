@@ -8,9 +8,11 @@
 </div>
 
 <p align="center">
- <a href="#features">Objetivo</a> •
+ <a href="#features">Features</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a>
+ <a href="#-rodando-o-front-end-interface">Getting Started</a> • 
+ <a href="pré-requisitos">Pré-requisitos</a> • 
+ <a href="#%EF%B8%8F-autor">Autor</a>
 </p>
 
 <h4 align="center"> 
@@ -20,7 +22,7 @@
 ### Features
 
 - [x] Consumir API theMoviedb
-- [x] Reacrregamento dos filmes/séries em destaque
+- [x] Recarregamento dos filmes/séries em destaque
 - [x] Rolagem séries
 
 ### Pré-requisitos
@@ -36,7 +38,7 @@ Além disso um editor para trabalhar com o código como [VSCode](https://code.vi
 $ git clone <https://github.com/ViniciusSLisboa/netflix-clone-interface-reactjs>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd netflix-clone
+$ cd netflix-clone-interface-reactjs
 
 # Instale as dependências
 $ npm install
