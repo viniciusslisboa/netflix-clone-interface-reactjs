@@ -1,0 +1,5 @@
+export default () => {
+  
+    let description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor scelerisque mi, sit amet mollis risus lobortis sed. Quisque auctor leo sit amet ligula luctus ultricies. In sed diam quam. Nam vel scelerisque lacus, vel auctor mauris. Aenean sagittis nibh sapien, id vestibulum nibh finibus ac. Vivamus varius eget ipsum eget volutpat. Suspendisse lacinia orci eget sapien ultricies sagittis. Donec egestas convallis eros efficitur tincidunt. Donec fermentum eleifend est sed ultricies. Praesent id felis dapibus, vulputate sem et, rhoncus felis. Duis egestas ornare ex, faucibus vehicula justo feugiat non. Sed ut vestibulum turpis. Nulla fringilla libero sit amet sollicitudin dignissim. Donec vehicula urna at elementum feugiat. Sed ut ornare libero."
+    return description;
+}
