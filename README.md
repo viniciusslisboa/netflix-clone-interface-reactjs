@@ -21,7 +21,7 @@
 
 - [x] Consumir API theMoviedb
 - [x] Reacrregamento dos filmes/séries em destaque
-- [x] Rolegem séries
+- [x] Rolagem séries
 
 ### Pré-requisitos
 
